@@ -1,10 +1,14 @@
 # DBT-Banking-System
+
+![download (1)](https://github.com/user-attachments/assets/6fb2acf6-1d33-4100-8f65-5b9dcf7d0682)
+
 A secure and persistent banking management system built with Java that allows customers, employees, and administrators to manage accounts, transactions, and user access with robust data storage and security features.
 
 This  is a comprehensive banking system application built with Java that provides functionalities for customers, employees, and administrators. The system features persistent data storage, transaction tracking, account management, and security features.
 
 Features
 Customer Features
+
 * Account creation and login
 * Deposit, withdrawal, and transfer operations
 * View account details and transaction history
