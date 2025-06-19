@@ -1,0 +1,20 @@
+James,Anderson,JAnderson,James.anderson@gmail.com,JA$12345,Savings,ACC10000,4111967187391233,07/34,665,0.0,Johannesburg Station East,0712345678
+Samuel,Mkhize,SMkhize,SamuelMkhi@gmail.com,SM12345@,Cheque,ACC10001,4111437870572471,09/34,256,0.0,Johannesburg Hillbrow,0723456789
+Micheal,Smith,MSmith,MichealM@gmail.com,MS@12345,Savings,ACC10002,4111286369901977,04/29,283,0.0,Johannesburg Pritchard,0733344560
+Jason,Smith,JSmith,JasonJason@gmail.com,JS556&13,Savings,ACC10003,4111802133126449,07/30,615,0.0,Johannesburg Bree,0858734908
+David,Nkomo,DNkomo,DavidDiva@gmail.com,DN254!54,Savings,ACC10004,4111796167341539,05/32,127,0.0,Johannesburg Jewel City,0987896543
+Lawrence,Gopane,LGopane,lawlaw@gmail.com,LG@98526,Cheque,ACC10005,4111775682373665,10/29,706,0.0,Johannesburg Braamfontein,0878965432
+Nicholas,Thabethe,NThabethe,NicholasThabethe@gmail.com,NT87954#,Savings,ACC10006,4111238418346182,06/34,700,0.0,Johannesburg Carlton Centre,0678905628
+Chris,Mapetla,CMapetla,ChrisM@gmail.com,CM#87915,Savings,ACC10007,4111999765398363,12/31,013,0.0,Johannesburg Plain Street,0789067987
+Daniel,Jones,DJones,DanielDJones@gmail.com,D$5975J1,Savings,ACC10008,4111683809254592,12/27,752,0.0,Johannesburg Station West,0987896578
+George,Sampsom,GSampsom,GeorgeGman@gmail.com,GS3398$0,Savings,ACC10009,4111385413842179,09/25,188,0.0,Johannesburg Kerk,0987890989
+Justin,De klerk,JDKlerk,JustinDe_klerk@gmail.com,JDK%3660,Savings,ACC10010,4111167677513774,01/34,191,0.0,Johannesburg Carlton Centre,0768965430
+Patrick,Mofokeng,PMofokeng,patpatrick2@gmail.com,PM&33617,Savings,ACC10011,4111497577099893,07/29,231,0.0,Johannesburg Braamfontein,0987654329
+Marcus,Mamba,MMamba,marcusmamba@gmail.com,MMa@3654,Savings,ACC10012,4111942339602848,05/34,502,0.0,Johannesburg Kerk,0676897665
+Primrose,Baloyi,PBaloyi,primBaloyi@gmail.com,PBa666#0,Cheque,ACC10013,4111450058898335,08/30,717,0.0,Johannesburg Pritchard,0876745890
+Lesedi,Mohale,LMohale,leeleelesedi@gmail.com,LM3654#1,Savings,ACC10014,4111320300297053,12/31,645,0.0,Johannesburg Hillbrow,0987843211
+Thandeka,mangena,TMangena,Thandeka@gmail.com,TMa1248@,Savings,ACC10015,4111533913437979,09/34,518,0.0,Johannesburg Plain Street,0957755833
+Lindiwe,Moyo,LMoyo,LindiweMoyo@gmail.com,LMo8754@,Savings,ACC10016,4111455999609788,09/29,022,0.0,Johannesburg Bree,0872367232
+Sipho,Yeni,SYeni,SiphoY@gmail.com,SYe$2589,Cheque,ACC10017,4111051957027105,12/30,708,0.0,Johannesburg Station west,0679234722
+Melusi,Duma,MDuma,MelusiDuma@gmail.com,MDu698&0,Cheque,ACC10018,4111663753366815,10/31,302,0.0,Johannesburg Jewel City,0789237486
+Thembi,Majola,TMajola,ThembiMajola@gmail.com,TMa@1544,Cheque,ACC10019,4111082051902163,02/25,583,0.0,Johannesburg Station East,0734673873

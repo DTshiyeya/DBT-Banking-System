@@ -1,0 +1,231 @@
+package bankingsystem;,import java.io.IOException;,,import java.io.BufferedReader;
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Mandla,Man1234,Johannesburg Bree,Auditor
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Mandla,Man1234,Johannesburg Bree,Auditor
+Nick,Nick123,Johannesburg Plain Street,Personal banker
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Mandla,Man1234,Johannesburg Bree,Auditor
+Nick,Nick123,Johannesburg Plain Street,Personal banker
+Tebogo,Teb123,Johannesburg Braamfontein,Investment banker
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Mandla,Man1234,Johannesburg Bree,Auditor
+Nick,Nick123,Johannesburg Plain Street,Personal banker
+Tebogo,Teb123,Johannesburg Braamfontein,Investment banker
+Jackson,Jack1234,Johannesburg Calton Centre,Credit analyst
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Mandla,Man1234,Johannesburg Bree,Auditor
+Nick,Nick123,Johannesburg Plain Street,Personal banker
+Tebogo,Teb123,Johannesburg Braamfontein,Investment banker
+Jackson,Jack1234,Johannesburg Calton Centre,Credit analyst
+Sifiso,Sif123,Johanessburg Station East,Bank teller
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Mandla,Man1234,Johannesburg Bree,Auditor
+Nick,Nick123,Johannesburg Plain Street,Personal banker
+Tebogo,Teb123,Johannesburg Braamfontein,Investment banker
+Jackson,Jack1234,Johannesburg Calton Centre,Credit analyst
+Sifiso,Sif123,Johanessburg Station East,Bank teller
+Oratile,Ora123,Johannesburg Hillbrow,Auditor
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Mandla,Man1234,Johannesburg Bree,Auditor
+Nick,Nick123,Johannesburg Plain Street,Personal banker
+Tebogo,Teb123,Johannesburg Braamfontein,Investment banker
+Jackson,Jack1234,Johannesburg Calton Centre,Credit analyst
+Sifiso,Sif123,Johanessburg Station East,Bank teller
+Oratile,Ora123,Johannesburg Hillbrow,Auditor
+Tshamio,Mio1234,Johannesburg Pritchard,Personal banker
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Mandla,Man1234,Johannesburg Bree,Auditor
+Nick,Nick123,Johannesburg Plain Street,Personal banker
+Tebogo,Teb123,Johannesburg Braamfontein,Investment banker
+Jackson,Jack1234,Johannesburg Calton Centre,Credit analyst
+Sifiso,Sif123,Johanessburg Station East,Bank teller
+Oratile,Ora123,Johannesburg Hillbrow,Auditor
+Tshamio,Mio1234,Johannesburg Pritchard,Personal banker
+Sam,Sam123,Johannesburg Station West,Investment banker
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Mandla,Man1234,Johannesburg Bree,Auditor
+Nick,Nick123,Johannesburg Plain Street,Personal banker
+Tebogo,Teb123,Johannesburg Braamfontein,Investment banker
+Jackson,Jack1234,Johannesburg Calton Centre,Credit analyst
+Sifiso,Sif123,Johanessburg Station East,Bank teller
+Oratile,Ora123,Johannesburg Hillbrow,Auditor
+Tshamio,Mio1234,Johannesburg Pritchard,Personal banker
+Sam,Sam123,Johannesburg Station West,Investment banker
+Paul,Paul123,Johannesburg Kerk,Credit analyst
+Sibusiso,Sbu123,Johannesburg Station East,Bank Teller
+Micheal,Mic1234,Johannesburg Braamfontein,Auditor
+Lindiwe,Lin123,Johannesburg Pritchard,Personal Banker
+Mark,Mark123,Johannesburg Bree,Investment Banker
+Anna,An1234,Johannesburg Jewel City,Credit Analyst
+Siyabonga,Siya1234,Johannesburg Calton Centre,Bank Teller
+Themba,Them123,Johannesburg Kerk,Auditor
+Thembi,Tem123,Johannesburg Station West,Personal banker
+Melusi,Melu123,Johannesburg Plain Street,Investment banker
+Sthabile,Sthab12,Johannesburg Hillbrow,Credit analyst
+Thuli,Tu1234,Johannesburg Jewel City,Bank teller
+Mandla,Man1234,Johannesburg Bree,Auditor
+Nick,Nick123,Johannesburg Plain Street,Personal banker
+Tebogo,Teb123,Johannesburg Braamfontein,Investment banker
+Jackson,Jack1234,Johannesburg Calton Centre,Credit analyst
+Sifiso,Sif123,Johanessburg Station East,Bank teller
+Oratile,Ora123,Johannesburg Hillbrow,Auditor
+Tshamio,Mio1234,Johannesburg Pritchard,Personal banker
+Sam,Sam123,Johannesburg Station West,Investment banker
+Paul,Paul123,Johannesburg Kerk,Credit analyst
